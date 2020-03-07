@@ -5,6 +5,9 @@ Implemented physics engine with rigid body dynamics such as gravity, acceleratio
 velocity, and collision delegation and detection
 
 How to play:
+
 Reach the Green clouds to win!
+
 Jump on the Grey clouds for a boost
+
 Watch out for the Pink clouds
