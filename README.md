@@ -1,5 +1,5 @@
 # JUMPEACH
-Platform Game made with Unity using C#
+## Platform Game made with Unity using C#
 
 Implemented physics engine with rigid body dynamics such as gravity, acceleration,
 velocity, and collision delegation and detection
